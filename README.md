@@ -1,5 +1,5 @@
 # Demostración de Análisis de datos
-## Influencia del consumo de datos a las clasificaciones de los estudiantes
+Influencia del consumo de alcohol en las calificaciones de los estudiantes
 
 ### Dataset
 El dataset que analizaremos está disponible en la siguiente [enlace].
