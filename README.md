@@ -2,9 +2,11 @@
 Influencia del consumo de alcohol en las calificaciones de los estudiantes
 
 ### Dataset
-El dataset que analizaremos está disponible en la siguiente [enlace].
+El dataset que analizaremos está disponible en la siguiente [enlace] (obsoleto) [actualizado].
 
 [enlace]:<http://archive.ics.uci.edu/ml/datasets/STUDENT+ALCOHOL+CONSUMPTION>
+[actualizado]:<https://archive.ics.uci.edu/ml/datasets/student+performance>
+
 
 ### Objetivos
 - Objetivo 1: Realizar un análisis exploratorio de los datos y conclusiones que se puedan sacar de ellos. 
